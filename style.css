@@ -6,3 +6,7 @@
 .gallery {
   background-color: #e2edff;
 }
+
+footer p {
+  margin-bottom: 0;
+}
